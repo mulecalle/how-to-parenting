@@ -1,13 +1,5 @@
-**Agosto 2025**
+# Sanatorio: Arcos Palermo
 
-# Changelog
-
-| Date | Author | Details |
-|------|--------|---------|
-| 26-07-25 | @mulecalle | Apply formatting, update 2 |
-| 26-07-25 | @mulecalle | Initial Release|
-
-Sanatorio: Arcos Palermo
 1. La temperatura de las habitacion ronda los ~25°C, recomiendo ir con ropa comoda, una bermuda y ojotas son más que aceptables.
 2. Llevar lo minimo e indispensable en el bolso, lo mas probable es que no termines usando nada.
    - Llevar al menos una muda de ropa, asi te enforzas bañarte y ralajar un poco. Ideal darse el baño cuando tenes visitas asi no dejas a la mama sola.
@@ -52,3 +44,10 @@ Sanatorio: Arcos Palermo
     - Este tramite te unlockea poder pedir el DNI
 14. **Huge Must Do**, sacate mil fotos.
 15. Algo que pense que no iba a ser necesario cuando lo compramos es la lima para uñas, lo terminamos usando apenas llegamos a casa para evitar que la beba se dañe la cara. 
+
+## Changelog
+
+| Date | Author | Details |
+|------|--------|---------|
+| 30-07-25 | [@mulecalle](https://github.com/mulecalle) | Apply formatting, update item 2 |
+| 26-07-25 | [@mulecalle](https://github.com/mulecalle) | Initial Release|
