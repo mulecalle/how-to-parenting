@@ -15,9 +15,11 @@
     - [Fular](https://articulo.mercadolibre.com.ar/MLA-2010216280-fular-prearmado-_JM): No sé si es por la edad o qué, pero todavía le cuesta quedarse más de 5 minutos. - _2/5_
 5. **Temperatura del ambiente:** La idea es mantener el ambiente cerca de 25 °C. Dependiendo de la fecha de parto, andá pensando cómo lo vas a lograr.
 6. **Leche de fórmula:** Ojalá no les pase, pero es probable que durante las primeras noches de lactancia la beba no pare de llorar y la mamá esté exhausta por el cansancio y el dolor. Tener una leche de fórmula y una jeringa puede ser la solución para pasar la noche; técnicamente no atenta contra la lactancia y puede evitar una crisis nocturna. Es mejor tener una de reserva que salir a buscarla a las 3 AM. Tengo entendido que la [Nutrilon](https://www.jumbo.com.ar/leche-uat-nutrilon-1-200-ml/p) es de las mejores.
+7. **Pediatra:** Si es posible, antes de la fecha de parto entrevistá a algunos pediatras. Lo ideal es tener definido un plan A y un plan B. En nuestro caso, priorizamos una pediatra cercana a nuestra casa y, por si no nos resulta, ya tenemos una alternativa como plan B.
 
 ## Changelog
 
 | Date | Author | Details |
 |------|--------|---------|
+| 04-09-25 | [@mulecalle](https://github.com/mulecalle) | Add bullet 7|
 | 02-09-25 | [@mulecalle](https://github.com/mulecalle) | Initial Release|
