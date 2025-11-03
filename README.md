@@ -7,3 +7,4 @@ A survival guide for new parents based 100% on my personal experience. This repo
 - **[Pre-Sanatorio](notes/pre-sanatorio.md)** - Preparation tips and checklist before going to the hospital
 - **[Sanatorio](notes/sanatorio.md)** - Complete guide for hospital stay during birth, including what to pack, what to expect, and practical tips for the first days with your newborn at Sanatorio Arcos Palermo.
 - **[Post-Sanatorio](notes/post-sanatorio.md)** - What to expect and do after leaving the hospital
+aaaa
