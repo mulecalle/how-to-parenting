@@ -4,12 +4,12 @@
 
 Básicamente homework y mas homework necesario pre arribo del infante.
 
-1. **Comida:** Cerca de la semana 38 es un buen momento para abastecer alacenas y freezer “a lo apocalipsis zombie”. Abastece lo máximo que puedas.
-2. **Cosas del bebé:** Indispensables para ir comprando y guardando; si enganchas alguna oferta, mucho mejor.
+1. **Comida:** Cerca de la semana 38 es un buen momento para abastecer alacenas y freezer a lo “apocalipsis zombie”. Abastece lo máximo que puedas.
+2. **Cosas del bebé:** Indispensables para ir comprando y guardando; y si enganchas alguna oferta mucho mejor.
     - Pañales:
         - Tamaño: puede depender de las últimas ecografías. En nuestro caso compramos bastante stock de RN+ y algo de RN.
-        - Marca: tengo entendido que Pampers es de lo mejor en relación calidad/precio; en el sanatorio te dan Huggies, que por ahora nos vienen funcionando bien. Vamos a seguir con Huggies hasta que baje la cantidad de pañales por día.
-        - Limpieza: al principio, solo se usa agua y algodón para higienizar antes del cambio. Nosotros venimos usando estos [paños de algodón](https://estrella.com.ar/producto/9) y nos resultaron muy bien. Disclaimer: vas a necesitar muchos paquetes.
+        - Marca: tengo entendido que Pampers es de lo mejor en calidad; en el sanatorio te dan Huggies, que por ahora nos vienen funcionando bien. Vamos a seguir con Huggies hasta que baje la cantidad de pañales consumidos por día, o realmente se necesite un pañal tope de gama.
+        - Limpieza: al principio, solo se usa agua y algodón para higienizar antes del cambio. Nosotros venimos usando estos [paños de algodón](https://estrella.com.ar/producto/9) y nos resultaron muy bien. Disclaimer: vas a necesitar miles de paquetes, ideal comprar en bulk.
     - Ropa: No te compliques. Con 4 o 5 enteritos, un gorrito y un abrigo para salir a controles alcanza.
 3. **Limpieza del hogar:** La primera semana post sanatorio es caótica. Según la fecha probable de parto, intenta dejar la casa lo más limpia y ordenada posible para volver con una preocupación menos. Es bastante clave conseguir alguien que te ayude con la limpieza post nacimiento.
 4. **Bolucompras:**

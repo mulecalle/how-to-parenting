@@ -5,19 +5,19 @@
 1. La temperatura de las habitacion ronda los ~ 25°C, recomiendo ir con ropa comoda, una bermuda y ojotas son más que aceptables.
 2. Llevar lo minimo e indispensable en el bolso, lo mas probable es que no termines usando nada.
    - Llevar al menos una muda de ropa, asi te enforzas bañarte y relajar un poco. Ideal darse el baño cuando tenes visitas asi no dejas a la mamá sola.
-   - Banco fuerte tener a la nena en brazos sin remera, esto tiene dos funciones: los bebes buscan el calor y le va a resultar más facil "aprender" tu olor corporal, llévate una musculosa o camisa.
+   - Banco fuerte tener a la nena en brazos sin remera, esto tiene dos funciones: los bebes buscan el calor y, por otro lado, le va a resultar más facil "aprender" tu olor corporal, llévate una musculosa o camisa.
       - No uses desodorantes corporales fuertes por unos días.
-3. El sanatorio le da ropa al bebe y pañales, no lleven nada de eso.
+3. El sanatorio le da ropa al bebe y pañales, no lleven nada de eso, después sino los van a tener que lavar cuando lleguen a casa.
     - Opcional, muda de ropa para el bebe para usar cuando le dan el alta.
 4. Constantemente el staff del sanatorio entra y sale de la habitacion, no vas a tener tiempo de nada:
    - Medicos del bebe - Control:
-     - temperatura
-     - auscultar
-     - billirrubina
+     - Temperatura
+     - Auscultar
+     - Bilirrubina
    - Medicos del bebe - Estudios:
-     - peso (post 24hs de vida)
-     - examen de oidos
-     - pesquisa neonatal (AKA FEI), solo la extraccion de sangre, resultado ETA 20 dias
+     - Peso (post 24hs de vida)
+     - Examen de oidos
+     - Pesquisa neonatal (AKA FEI), solo la extraccion de sangre, el resultado va a estar en 20 días aprox.
    - Médico de la mama
    - Nurse para la mama
    - Puericultoras
@@ -25,11 +25,11 @@
    - Restaurant, vienen mil veces, 4 comidas + refill de agua constante
      - Comida de hospital, sana y de porciones generosas, en nuestro caso la compartiamos con la mamá, estás tan en otra que ni hambre tenes.
 5. No se recomienda llevarle flores a la mamá por posibles alergias del bebe
-6. Es posible que te ofrezcan una session de fotos del bebe, no la contratamos.
-7. En nuestro caso (parto natural) nos dieron el alta durante el tercer día.
+6. Es posible que te ofrezcan una sesión de fotos del bebe, no tengo data aca, no la contratamos.
+7. En nuestro caso (parto natural) nos dieron el alta durante el tercer día, pero también se puede dar en el segundo día, esto depende de la hora de ingreso(parto).
    - El horario de salida es flexible: te dan el alta a las X hs, pero no es un hard checkout en el que tenes que dejar la habitacion si o si en ese horario.
 8. En el día del alta, es posible contratar el servicio de peluqueria para el bebe, se abona al hacer el checkout.
-9. En el día del alta o antes, podés pedirle a alguna nurse que le haga los aritos, costo a voluntad.
+9. En el día del alta o antes, podés pedirle a alguna nurse que le haga los aritos, valor a voluntad.
 10. Si bien la clinica tiene garage privado recomiendo evitar ir con el auto.
     - Dependiendo del caso durante el viaje de ida vas a ir muy ansioso y apurado, y durante la vuelta volves cansado y con mil cosas en la cabeza.
 11. Visitas en la clinica, todo un tema, el balance entre decir que si o no está en:
@@ -45,7 +45,6 @@
     - El trámite tarda 48 hs, lo podés ir a buscar cuando vayas al chequeo de Neo
     - Este trámite te unlockea poder pedir el DNI
 14. **Huge Must Do**, sacate mil fotos.
-15. Algo que pense que no iba a ser necesario cuando lo compramos es la lima para uñas, lo terminamos usando apenas llegamos a casa para evitar que la beba se dañe la cara. 
 
 ## Changelog
 
