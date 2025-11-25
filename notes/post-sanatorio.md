@@ -15,10 +15,12 @@ Algunos tips:
 
 ## Vacunas
 
-1. Descubrimos que [Vacunar](https://vacunar.com.ar/) va a vacunar a domicilio, so far, super recomendable. 
+1. Descubrimos que [Vacunar](https://vacunar.com.ar/) va a vacunar a domicilio, so far, super recomendable.
+2. **Meningococo**, en casa optamos por aplicarle la BEXSERO (Antimeningocócica B), esta vacuna es opcional y por fuera del calendario oficinal, es un poco más fuerte que la MENVEO (Antimeningocócica ACYW). Como es una vacuna de dos dosis y un refuerzo se puede optar por aplicarla luego del año y de esa manera el refuerzo no es necesario. Swiss medical la tiene bonificada al 100%. 
 
 ## Changelog
 
 | Date     | Author                                     | Details         |
 |----------|--------------------------------------------|-----------------|
+| 25-11-25 | [@mulecalle](https://github.com/mulecalle) | Vacuna 3 meses  |
 | 01-11-25 | [@mulecalle](https://github.com/mulecalle) | Initial Release |
